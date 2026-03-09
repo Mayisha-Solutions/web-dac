@@ -1,6 +1,6 @@
 import { X, User, Mail, Briefcase, Building2, Fingerprint, Key, ArrowRight } from 'lucide-react';
 
-export default function AddAgentModal({ isOpen, onClose }: any) {
+export default function AddUsersModal({ isOpen, onClose }: any) {
   if (!isOpen) return null;
 
   return (
