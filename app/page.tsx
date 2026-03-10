@@ -1,5 +1,4 @@
-
-import AppLayout from "@/components/layouts/AppLayout";
+import AppLayout from "@/components/ui/AppLayout";
 import Image from "next/image";
 
 export default function Home() {
